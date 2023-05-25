@@ -1,0 +1,85 @@
+{
+  "posts": [
+    {
+      "id": 2069022053,
+      "name": "Wide-grip barbell curl",
+      "type": "strength",
+      "muscle": "biceps",
+      "equipment": "barbell",
+      "difficulty": "beginner",
+      "instructions": "Stand up with your torso upright while holding a barbell at the wide outer handle. The palm of your hands should be facing forward. The elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to starting position as your breathe in. Repeat for the recommended amount of repetitions.  Variations:  You can also perform this movement using an E-Z bar or E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+    },
+    {
+      "id": 755324822,
+      "name": "EZ-Bar Curl",
+      "type": "strength",
+      "muscle": "biceps",
+      "equipment": "e-z_curl_bar",
+      "difficulty": "intermediate",
+      "instructions": "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position. Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms. Continue to raise the weight until your biceps are fully contracted and the bar is at shoulder level. Hold the top contracted position for a moment and squeeze the biceps. Then inhale and slowly lower the bar back to the starting position. Repeat for the recommended amount of repetitions.  Variations: You can also perform this movement using an E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes."
+    },
+    {
+      "id": 2646784930,
+      "name": "Standing One-Arm Cable Curl",
+      "type": "strength",
+      "muscle": "biceps",
+      "equipment": "cable",
+      "difficulty": "beginner",
+      "instructions": "Start out by grabbing single handle next to the low pulley machine. Make sure you are far enough from the machine so that your arm is supporting the weight. Make sure that your upper arm is stationary, perpendicular to the floor with elbows in and palms facing forward. Your non lifting arm should be grabbing your waist. This will allow you to keep your balance. Slowly begin to curl the single handle upwards while keeping the upper arm stationary until your forearm touches your bicep while exhaling. Tip: Only the forearm should move. Hold the contraction position as you squeeze the bicep and then lower the single handle back down to the starting position as you inhale. Repeat for the recommended amount of repetitions. Switch arms while performing this exercise."
+    },
+    {
+      "id": 4207596098,
+      "name": "Calf Press",
+      "type": "strength",
+      "muscle": "calves",
+      "equipment": "machine",
+      "difficulty": "beginner",
+      "instructions": "Adjust the seat so that your legs are only slightly bent in the start position. The balls of your feet should be firmly on the platform. Select an appropriate weight, and grasp the handles. This will be your starting position. Straighten the legs by extending the knees, just barely lifting the weight from the stack. Your ankle should be fully flexed, toes pointing up. Execute the movement by pressing downward through the balls of your feet as far as possible. After a brief pause, reverse the motion and repeat."
+    },
+    {
+      "id": 2560999632,
+      "name": "Seated Calf Raise",
+      "type": "strength",
+      "muscle": "calves",
+      "equipment": "machine",
+      "difficulty": "intermediate",
+      "instructions": "Sit on the machine and place your toes on the lower portion of the platform provided with the heels extending off. Choose the toe positioning of your choice (forward, in, or out) as per the beginning of this chapter. Place your lower thighs under the lever pad, which will need to be adjusted according to the height of your thighs. Now place your hands on top of the lever pad in order to prevent it from slipping forward. Lift the lever slightly by pushing your heels up and release the safety bar. This will be your starting position. Slowly lower your heels by bending at the ankles until the calves are fully stretched. Inhale as you perform this movement. Raise the heels by extending the ankles as high as possible as you contract the calves and breathe out. Hold the top contraction for a second. Repeat for the recommended amount of repetitions."
+    },
+    {
+      "id": 1171865862,
+      "name": "Pushups",
+      "type": "strength",
+      "muscle": "chest",
+      "equipment": "body_only",
+      "difficulty": "intermediate",
+      "instructions": "Lie on the floor face down and place your hands about 36 inches apart while holding your torso up at arms length. Next, lower yourself downward until your chest almost touches the floor as you inhale. Now breathe out and press your upper body back up to the starting position while squeezing your chest. After a brief pause at the top contracted position, you can begin to lower yourself downward again for as many repetitions as needed.  Variations: If you are new at this exercise and do not have the strength to perform it, you can either bend your legs at the knees to take off resistance or perform the exercise against the wall instead of the floor. For the most advanced lifters, you can place your feet at a high surface such as a bench in order to increase the resistance and to target the upper chest more."
+    },
+    {
+      "id": 3960679055,
+      "name": "Cable Chest Press",
+      "type": "strength",
+      "muscle": "chest",
+      "equipment": "cable",
+      "difficulty": "beginner",
+      "instructions": "Adjust the weight to an appropriate amount and be seated, grasping the handles. Your upper arms should be about 45 degrees to the body, with your head and chest up. The elbows should be bent to about 90 degrees. This will be your starting position. Begin by extending through the elbow, pressing the handles together straight in front of you. Keep your shoulder blades retracted as you execute the movement. After pausing at full extension, return to th starting position, keeping tension on the cables. You can also execute this movement with your back off the pad, at an incline or decline, or alternate hands."
+    },
+    {
+      "id": 456641665,
+      "name": "Sled push-",
+      "type": "cardio",
+      "muscle": "hamstrings",
+      "equipment": "other",
+      "difficulty": "beginner",
+      "instructions": "Place your sled on an appropriate surface, loaded to a suitable weight. The sled should provide enough resistance to require effort, but not so heavy that you are significantly slowed down. You may use the upright or the low handles for this exercise. Place your hands on the handles with your arms extended, leaning into the implement. With good posture, drive through the ground with alternating, short steps. Move as fast as you can for a short distance."
+    },
+    {
+      "id": 3029868184,
+      "name": "Bicycling",
+      "type": "cardio",
+      "muscle": "quadriceps",
+      "equipment": "other",
+      "difficulty": "intermediate",
+      "instructions": "To begin, seat yourself on the bike and adjust the seat to your height. Wear protective gear to avoid possible injury. Ensure that you are courteous to vehicles and pedestrians, and that you obey the rules of the road.  Cycling offers convenience, cardiovascular benefits, and has less impact than other activities. A 150 lb person will burn about 280 calories cycling at a moderate rate for 30 minutes, compared to 450 calories or more running."
+    }
+  ]
+}
